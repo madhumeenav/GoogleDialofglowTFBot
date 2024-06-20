@@ -1,0 +1,131 @@
+{
+  "trainingPhrases": [ {
+    "id": "6f60b891-1283-4709-b350-906a224fdd17",
+    "parts": [ {
+      "text": "hi",
+      "auto": true
+    } ],
+    "repeatCount": 3,
+    "languageCode": "en-us"
+  }, {
+    "id": "552c18cf-da8a-49ab-a561-7b705f1b5cfc",
+    "parts": [ {
+      "text": "hey",
+      "auto": true
+    } ],
+    "repeatCount": 3,
+    "languageCode": "en-us"
+  }, {
+    "id": "4aad968f-286a-4cce-9b13-658610d500b7",
+    "parts": [ {
+      "text": "just going to say hi",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "91142957-d184-4c1f-8945-b5eb55a9d015",
+    "parts": [ {
+      "text": "heya",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "11c06ee8-081a-476b-a37d-6637d5e60329",
+    "parts": [ {
+      "text": "hello hi",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "6e2a970a-6b97-4a9f-b047-d25172c83f01",
+    "parts": [ {
+      "text": "howdy",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "a1c028d8-de0b-462a-a4c6-a1426c6532a2",
+    "parts": [ {
+      "text": "hey there",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "20b5389e-1a63-4e54-91f9-ebd778520be3",
+    "parts": [ {
+      "text": "hi there",
+      "auto": true
+    } ],
+    "repeatCount": 3,
+    "languageCode": "en-us"
+  }, {
+    "id": "275d1fac-ca60-4813-8811-bcfb1f1f10c8",
+    "parts": [ {
+      "text": "greetings",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "cb4c6a91-6769-4aa6-951c-5095893549ba",
+    "parts": [ {
+      "text": "long time no see",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "0d3f3a3f-02a1-4aeb-ab95-756fd360dc75",
+    "parts": [ {
+      "text": "hello",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "88dba072-ab36-4399-86f0-d75120f76cb7",
+    "parts": [ {
+      "text": "lovely day isn't it",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "ec33f03b-2348-4203-b35d-85dc90f05ba5",
+    "parts": [ {
+      "text": "I greet you",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "6852f16f-94c5-473d-86a7-55f1960a9ae8",
+    "parts": [ {
+      "text": "hello again",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "46b3ad2a-7b21-4775-bf39-6aafde0abd3c",
+    "parts": [ {
+      "text": "hello there",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  }, {
+    "id": "562e4497-f572-4ccf-a09b-7e3a45e47efd",
+    "parts": [ {
+      "text": "a good day",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-us"
+  } ]
+}

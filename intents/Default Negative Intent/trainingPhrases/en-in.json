@@ -1,0 +1,47 @@
+{
+  "trainingPhrases": [ {
+    "id": "e38507f0-8e41-4216-b5ab-aa985c4f85a0",
+    "parts": [ {
+      "text": "I am not interested in order status"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "547ac19a-e932-47ef-9bfe-13813fe17938",
+    "parts": [ {
+      "text": "I am not interested in faq"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "4bea5d09-2f8c-41ff-9711-61508198595e",
+    "parts": [ {
+      "text": "I do not want to register account"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "a36c7491-a263-4255-90b5-406c48513cd8",
+    "parts": [ {
+      "text": "I do not want to check order issue"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "cd52bd78-340c-4c15-8c0a-d479008de9e6",
+    "parts": [ {
+      "text": "i do not want to place order"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  }, {
+    "id": "51c42c58-69d9-413e-83b4-1922d600fab3",
+    "parts": [ {
+      "text": "bla "
+    }, {
+      "text": "bla"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-in"
+  } ]
+}

@@ -1,0 +1,131 @@
+{
+  "trainingPhrases": [ {
+    "id": "80cc28b4-3b24-45d2-9143-ad90482bbe3a",
+    "parts": [ {
+      "text": "hi",
+      "auto": true
+    } ],
+    "repeatCount": 3,
+    "languageCode": "en-au"
+  }, {
+    "id": "5d2a9f9a-2453-49c0-b12c-e54e8ee1514d",
+    "parts": [ {
+      "text": "hey",
+      "auto": true
+    } ],
+    "repeatCount": 3,
+    "languageCode": "en-au"
+  }, {
+    "id": "2d18fa70-7920-4e62-b72c-5ffef3861a64",
+    "parts": [ {
+      "text": "just going to say hi",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "40ac660f-3478-4629-8455-5de054a1d43a",
+    "parts": [ {
+      "text": "heya",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "d5f7cfae-087f-4d03-93d5-87676b4b8c76",
+    "parts": [ {
+      "text": "hello hi",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "ee0c55a7-80b0-45f7-8856-c2061e37a486",
+    "parts": [ {
+      "text": "howdy",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "8248c16f-2bbf-410a-9f28-bffc92169dfd",
+    "parts": [ {
+      "text": "hey there",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "436addcf-84a1-460a-9c6f-1f0a0188c8f5",
+    "parts": [ {
+      "text": "hi there",
+      "auto": true
+    } ],
+    "repeatCount": 3,
+    "languageCode": "en-au"
+  }, {
+    "id": "d7150851-3ee5-4d86-8419-c7f609609a5f",
+    "parts": [ {
+      "text": "greetings",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "7c197601-d627-412d-8c4c-a59149d10911",
+    "parts": [ {
+      "text": "long time no see",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "e9ec7137-bf11-49df-942c-2f76f1fcc512",
+    "parts": [ {
+      "text": "hello",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "6ad85d87-e37b-4388-8520-9d210d76e56a",
+    "parts": [ {
+      "text": "lovely day isn't it",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "7050235b-22a7-486f-b221-c0e58667c72b",
+    "parts": [ {
+      "text": "I greet you",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "cb1fa64c-26bf-4f8e-988b-049dd9b1fa4e",
+    "parts": [ {
+      "text": "hello again",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "25a50157-438b-42d6-ac56-7869c39f5916",
+    "parts": [ {
+      "text": "hello there",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  }, {
+    "id": "ebbe7629-5fdd-43e5-a840-6c8ad81d9fd9",
+    "parts": [ {
+      "text": "a good day",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en-au"
+  } ]
+}

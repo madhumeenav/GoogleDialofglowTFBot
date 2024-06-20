@@ -1,0 +1,63 @@
+{
+  "name": "80462112-6ab3-4ebd-86fe-bcfd71d997bc",
+  "displayName": "Dummy Flow",
+  "transitionRoutes": [ {
+    "intent": "dummy intent",
+    "triggerFulfillment": {
+    
+    },
+    "targetFlow": "Dummy Flow",
+    "name": "356884e3-1c5c-460e-a0bf-b2dc2156545b"
+  }, {
+    "intent": "dummy intent",
+    "triggerFulfillment": {
+    
+    },
+    "targetFlow": "End flow",
+    "name": "c811aff4-ea23-4b21-93fe-1647f2689131"
+  }, {
+    "intent": "dummy intent",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Hello" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "name": "7448b6d7-4a1d-43e8-9634-d0ab82295300"
+  }, {
+    "intent": "dummy intent",
+    "triggerFulfillment": {
+    
+    },
+    "name": "6b5c3e91-000f-494f-8905-be1989b59ce6"
+  } ],
+  "eventHandlers": [ {
+    "event": "sys.no-match-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "I didn't get that. Can you say it again?", "I missed what you said. What was that?", "Sorry, could you say that again?", "Sorry, can you say that again?", "Can you say that again?", "Sorry, I didn't get that. Can you rephrase?", "Sorry, what was that?", "One more time?", "What was that?", "Say that one more time?", "I didn't get that. Can you repeat?", "I missed that, say that again?" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "name": "77401a14-9efb-4464-afae-1c11381f510c"
+  }, {
+    "event": "sys.no-input-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "I didn't get that. Can you say it again?", "I missed what you said. What was that?", "Sorry, could you say that again?", "Sorry, can you say that again?", "Can you say that again?", "Sorry, I didn't get that. Can you rephrase?", "Sorry, what was that?", "One more time?", "What was that?", "Say that one more time?", "I didn't get that. Can you repeat?", "I missed that, say that again?" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "name": "985aabed-5c67-4448-9b93-c5f78393f3c3"
+  } ],
+  "nluSettings": {
+    "modelType": "MODEL_TYPE_ADVANCED",
+    "classificationThreshold": 0.30000001
+  }
+}

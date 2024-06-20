@@ -1,0 +1,17 @@
+{
+  "defaultLanguageCode": "en",
+  "timeZone": "America/Los_Angeles",
+  "projectNumber": 785373483908,
+  "startFlow": "Default Start Flow",
+  "advancedSettings": {
+    "loggingSettings": {
+    
+    }
+  },
+  "answerFeedbackSettings": {
+  
+  },
+  "webClientSettings": {
+  
+  }
+}

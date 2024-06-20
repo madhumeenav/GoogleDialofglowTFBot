@@ -1,0 +1,19 @@
+{
+  "fallbackSettings": {
+  
+  },
+  "generativeSafetySettings": {
+    "raiSettings": {
+    
+    }
+  },
+  "languageCode": "en",
+  "knowledgeConnectorSettings": {
+    "mainLlmConfig": {
+    
+    }
+  },
+  "llmModelSettings": {
+    "model": "gemini-pro"
+  }
+}
